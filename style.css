@@ -8,11 +8,11 @@
 .main-page-list {
   border: 3px solid black;
 
-  border: 1px solid black;
+  border: 3px solid black;
   margin-top: 50px;
   margin-bottom: 10000px;
   margin-right: 250px;
-  margin-left: 80px;
+  margin-left: 100px;
 }
 
 .main-page-item {	
